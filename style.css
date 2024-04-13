@@ -1,0 +1,18 @@
+h3:first-child {
+  color: pink;
+}
+
+p:nth-child(3) {
+  color: grey;
+}
+p:last-child {
+  color: red;
+}
+
+p:nth-last-child(2) {
+  color: green;
+}
+
+.yellow:last-child {
+  color: yellow;
+}
